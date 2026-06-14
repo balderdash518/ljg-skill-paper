@@ -24,7 +24,7 @@ git clone https://github.com/lijigang/ljg-skill-paper.git /tmp/ljg-skill-paper &
 
 ## 输出
 
-一篇连贯的 Org-mode 分析（Denote 规范），存入 `~/Documents/notes/`。包含：
+一篇连贯的 Markdown 分析（Denote 规范，`.md` 文件），存入 `~/Documents/notes/`。包含：
 
 1. **缺口与增量** — 已有研究的边界在哪，这篇论文往前推了多远
 2. **核心机制** — ASCII 结构图 + 承重类比，看完能复述方法逻辑
